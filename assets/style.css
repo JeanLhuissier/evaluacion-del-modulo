@@ -1,0 +1,17 @@
+
+body{
+  font-family: Arial,'Open Sans', Georgia, Verdana, sans-serif;
+}
+
+.carousel-inner{
+    background-color:rgb(181, 47, 47)
+}
+
+
+
+
+/* Responsive padding para secciones */
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
